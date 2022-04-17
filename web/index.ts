@@ -148,7 +148,7 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
-    { text: 'Heroku', value: 'https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg' }
+    { text: 'Heroku', value: '/heroku-logo-stroke-white.svg' }
 ];
 
 const imageDarkOptions: DropdownOption[] = [
