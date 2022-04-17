@@ -148,7 +148,8 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
-    { text: 'Heroku', value: '/heroku-logo-stroke-white.svg' }
+    { text: 'Heroku', value: 'https://cdn.yeecord.com/img/heroku-logo-stroke-white.svg' },
+    { text: 'Yeecord', value: 'https://cdn.yeecord.com/img/yeecord-transparent.png' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
