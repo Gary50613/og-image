@@ -159,6 +159,7 @@ const imageDarkOptions: DropdownOption[] = [
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
     { text: 'Heroku', value: 'https://og-image-ruby-kappa.vercel.app/img/heroku-logo-solid-white.svg' },
     { text: 'Yeecord', value: 'https://cdn.yeecord.com/img/logo-transparent.png' },
+    { text: 'Discord', value: 'https://og-image-ruby-kappa.vercel.app/img/Discord-Logo-White.svg' }
 ];
 
 
