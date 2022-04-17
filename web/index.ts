@@ -148,7 +148,7 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
-    { text: 'Heroku', value: 'https://og-image-ruby-kappa.vercel.app/img/heroku-logo-solid-white.svg' },
+    { text: 'Heroku', value: 'https://og-image-ruby-kappa.vercel.app/img/heroku-logo-solid-gradient.svg' },
     { text: 'Yeecord', value: 'https://cdn.yeecord.com/img/logo-transparent.png' },
 ];
 
@@ -157,7 +157,7 @@ const imageDarkOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
-    { text: 'Heroku', value: 'https://og-image-ruby-kappa.vercel.app/img/heroku-logo-solid-gradient.svg' },
+    { text: 'Heroku', value: 'https://og-image-ruby-kappa.vercel.app/img/heroku-logo-solid-white.svg' },
     { text: 'Yeecord', value: 'https://cdn.yeecord.com/img/logo-transparent.png' },
 ];
 
